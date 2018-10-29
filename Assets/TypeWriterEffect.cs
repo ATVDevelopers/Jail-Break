@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TypeWriterEffect : MonoBehaviour {
 
@@ -20,11 +21,10 @@ public class TypeWriterEffect : MonoBehaviour {
     IEnumerator ShowText(){
         for (int i = 0; i <= fullText.Length; i++){
             currentText = fullText.Substring(0, i);
-            Debug.Log("Work");
             key.Play();
-            Debug.Log("Sound");
             this.GetComponent<Text>().text = currentText;
             yield return new WaitForSeconds(delay);
         }
+        SceneManager.LoadScene(1);
     }
 }
