@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LogoAnim.unity
+    guid: e66b6efd77c78472984788b711e40156
+  - enabled: 1
+    path: Assets/Title Screen.unity
+    guid: f5fce537d470d4cef98a2bdeb70685b9

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{FAFE6275-FCE3-8174-FB91-00578F586240}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TypeWriterEffect.cs">
     <Files>
-      <File FileName="Assets/TypeWriterEffect.cs" Line="10" Column="29" />
+      <File FileName="Assets/TypeWriterEffect.cs" Line="16" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
