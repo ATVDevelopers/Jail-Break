@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab64c11b5fca74fe1bf58a46f88c9168
+timeCreated: 1540238143
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PhosphateInline
+  fontNames:
+  - PhosphateInline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
